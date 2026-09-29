@@ -1,0 +1,5 @@
+Artificial intelligence is a branch of computer science.
+Mchine Learning is a subset of artificial intelligence.
+Deep Learning uses neural networks.
+Large Learning Models can understand and generate human-like text.
+RAG combines retrival with language genaration.
