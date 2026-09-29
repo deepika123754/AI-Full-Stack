@@ -1,0 +1,10 @@
+Myself Deepika, currently i am persuing baclers of deegre in computer science.
+I am here to tell basics of computers.
+"At a basic level, computers have a few important parts: 
+the CPU (processor) executes instructions and performs calculations; 
+RAM temporarily holds information programs are actively using; 
+storage such as an SSD keeps files and programs even when the power is off; 
+and the motherboard connects the major components. 
+A GPU specializes in graphics and highly parallel calculations,
+while input/output devices—such as a keyboard, mouse, monitor, microphone, 
+and speakers—let the computer interact with you."
